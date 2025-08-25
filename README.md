@@ -2,7 +2,7 @@
 ### Full Stack Developer | .NET Developer | MERN Stack Enthusiast  
 
 <div align="center">
-  <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Pixel Mario Banner" style="width:110%">
+  <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Pixel Mario Banner" style="width:100%">
 </div>
 
 ---
@@ -44,7 +44,7 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,html,css,js,ts,react,vite,nextjs,redux,tailwind,nodejs,express,nestjs,mongodb,mysql,postgres,django,git,github,vscode,visualstudio,linux, github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,html,css,js,ts,react,vite,nextjs,redux,tailwind,nodejs,express,nestjs,mongodb,mysql,postgres,django,git,github,vscode,visualstudio,linux,github" />
   </a>
 </p>
 
