@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I’m a **3rd-semester Computer Science student at UET Lahore** with a passion for learning and building impactful projects.  
 Naturally curious, I enjoy working on both **frontend and backend development**, turning ideas into clean, functional, and meaningful solutions. Over time, I’ve created a range of projects that showcase my skills and growth.  
 
 ---
 
-## 💡 What Drives Me  
+## What Drives Me  
 
 I thrive on challenges — whether it’s fixing errors, late-night debugging, or tackling complex problems — always eager to grow with each step.  
 
@@ -19,23 +19,23 @@ For me, **Computer Science isn’t just a degree**; it’s a journey of discover
 
 ---
 
-## 🌐 Beyond Academics  
+## Beyond Academics  
 
 I’m enthusiastic about **freelancing, collaborations, and internships**, where I can apply my skills, learn from others, and contribute to real-world projects.  
 
 ---
 
-## 📌 Quick Facts  
+## Quick Facts  
 
 - 🌍 Based in **Lahore, Pakistan**  
-- ✉️ Reach me at **[anassabir1072@gmail.com](mailto:anassabir1072@gmail.com)**  
+- ✉️ Reach me at **[Anas Sabir](mailto:anassabir1072@gmail.com)**  
 - 🧠 Currently learning **new frameworks & tools**  
 - 👥 Open to collaborate on **interesting projects**  
 - 💬 Fun fact: *I’m secretly a ninja 🥷 and part-time knight ⚔️… but don’t tell anyone 💀*  
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a>
@@ -64,7 +64,7 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 
 ---
 
-## 🌍 Socials  
+## Socials  
 
 <p align="left">  
 <a href="https://github.com/up33anas"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>  
@@ -76,7 +76,7 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
 <a href="https://github.com/up33anas"><img src="https://github-readme-stats.vercel.app/api?username=up33anas&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="Anas Sabir's GitHub stats"/></a>  
@@ -92,4 +92,4 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 
 ---
 
-⭐️ From [up33anas](https://github.com/up33anas)  
+⭐️ From [Anas Sabir](https://github.com/up33anas)  
