@@ -1,6 +1,6 @@
 # Hi there! 👋 My name is Anas Sabir  
 
-### Full Stack Developer | .NET Developer | Passionate about C++  
+### Full Stack Developer | .NET Developer | MERN
 
 ---
 
