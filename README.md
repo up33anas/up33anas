@@ -64,39 +64,7 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 
 ## 📊 GitHub Stats  
 
-<details>
-<summary>Click to Expand 📈</summary>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/up33anas">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=up33anas&show_icons=true&include_all_commits=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true&cache_seconds=7200"
-      alt="GitHub Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/up33anas">
-    <img
-      src="https://streak-stats.demolab.com?user=up33anas&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&card_width=500&date_format=j%20M%5B%20Y%5D&v=1"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/up33anas">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=up33anas&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&cache_seconds=7200"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
-</details>
-
+<details> <summary>Click to Expand 📈</summary> <br/> <p align="center"> <a href="https://github.com/up33anas"> <img src="https://github-readme-stats.vercel.app/api?username=up33anas&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/> </a> </p> <p align="center"> <a href="https://github.com/up33anas"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=up33anas&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/> </a> </p> <p align="center"> <a href="https://github.com/up33anas"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=up33anas&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages"/> </a> </p> </details>
 
 ---
 
