@@ -57,7 +57,7 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
   <a href="https://www.linkedin.com/in/anas-sabir-6719b4333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/1283105507158130768"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://x.com/RealAnasSabir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.threads.net/@m.anassabir"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+  <a href="https://www.threads.net/@anassabir__"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 </p>
 
 ---
