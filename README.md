@@ -1,16 +1,10 @@
-<div align="center">
-
-# Hello World! 👋  
-# My name is **Anas Sabir**
+# Hello World! 👋 My name is **Anas Sabir**
 
 ### Full Stack Developer | .NET Developer | MERN Stack Enthusiast  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=up33anas&color=green)
 
 <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Pixel Mario Banner" width="100%">
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me  
