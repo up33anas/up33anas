@@ -1,4 +1,4 @@
-# Hello World! 👋 My name is Anas Sabir  
+<div align="center"> # Hello World! 👋 My name is Anas Sabir  </div>
 ### Full Stack Developer | .NET Developer | MERN Stack Enthusiast  
 ![Visitor Count](https://komarev.com/ghpvc/?username=up33anas&color=green)
 <div align="center">
