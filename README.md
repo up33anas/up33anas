@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=up33anas&color=green)
 
-<img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Pixel Mario Banner" width="100%">
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Pixel Mario Banner" width="100%">
 
 ## 👨‍💻 About Me  
 
