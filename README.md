@@ -1,6 +1,6 @@
 # Hello World! 👋 My name is **Anas Sabir**
 
-### Full Stack Developer | MERN & .NET Developer | Learning new technologies
+### Full Stack Developer | CS Student | Learning new technologies
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=up33anas&color=green)
 
